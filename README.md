@@ -1,7 +1,7 @@
 
 
 
-## Determinar el Clima x Dirección
+## Determinar el Clima por Dirección
 
 
 Esta aplicación se encarga de obtener el clima determinado de una dirección especifica suministrada por el usuario
